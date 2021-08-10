@@ -1,4 +1,4 @@
-package jprac1;
+
 
 public class myclass {
 
